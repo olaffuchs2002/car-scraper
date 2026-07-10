@@ -75,6 +75,16 @@
   .chip-clear{margin-left:2px;color:var(--muted-2);background:none;border:none;cursor:pointer;
     font-size:12px;text-decoration:underline;padding:4px 2px}
   .chip-clear:hover{color:var(--text)}
+  .year-range{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-bottom:16px}
+  .year-range .dim{color:var(--muted-2);font-size:11px;text-transform:uppercase;
+    letter-spacing:.06em;margin-right:2px}
+  .year-range label{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;color:var(--muted)}
+  .year-range input[type=number]{width:62px;font-family:var(--mono);font-size:12.5px;color:var(--text);
+    background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:4px 7px}
+  .year-range input[type=number]:focus{outline:2px solid var(--primary);outline-offset:1px;border-color:var(--primary)}
+  .year-range .yr-clear{color:var(--muted-2);background:none;border:none;cursor:pointer;
+    font-size:12px;text-decoration:underline;padding:4px 2px}
+  .year-range .yr-clear:hover{color:var(--text)}
   .origin{font-size:15px;line-height:1}
 
   .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin-bottom:16px}
@@ -206,6 +216,13 @@ function applyFacets(rows, filters){
     }
     return true;
   });
+}
+// Client-side year-range filter (typed by the user per model section) -
+// independent of the facet chips above, applied on top of them.
+function applyYearRange(rows, st){
+  const {yearMin, yearMax}=st;
+  if(yearMin==null && yearMax==null) return rows;
+  return rows.filter(c => c.year!=null && (yearMin==null||c.year>=yearMin) && (yearMax==null||c.year<=yearMax));
 }
 function hasDrop(c){ const r=(c.price_readings||[]).filter(x=>x&&x[1]>0); return r.length>=2 && r[r.length-1][1]<r[r.length-2][1]; }
 
@@ -413,8 +430,15 @@ renderGlobal();
 const sections = MODELS.map((m,i)=>{
   const sec=document.createElement('section');
   sec.className='model'; sec.id='m-'+m.key;
+  const years=m.listings.map(c=>c.year).filter(y=>y!=null);
+  const yLo=years.length?Math.min(...years):null, yHi=years.length?Math.max(...years):null;
+  const yearRangeHtml = yLo!=null ? `<div class="year-range"><span class="dim">Rocznik</span>
+    <label>od <input type="number" class="yr-min" placeholder="${yLo}" min="${yLo}" max="${yHi}"></label>
+    <label>do <input type="number" class="yr-max" placeholder="${yHi}" min="${yLo}" max="${yHi}"></label>
+    <button type="button" class="yr-clear" hidden>wyczyść</button></div>` : '';
   sec.innerHTML=`<div class="m-head"><h2>${m.label}</h2><span class="tag">${m.key}</span></div>
     <div class="facets facet-host"></div>
+    ${yearRangeHtml}
     <div class="kpis kpi-host"></div>
     <div class="charts">
       <div class="card"><h3>Deal finder</h3><p class="hint">price vs mileage · green = cheaper than expected</p><div class="plot deal"></div></div>
@@ -424,7 +448,7 @@ const sections = MODELS.map((m,i)=>{
     </div>
     <div class="table-host"></div>`;
   root.appendChild(sec);
-  const s={m, sec, state:{sortKey:'current_price', asc:true, dealsOnly:false, filters:{}}};
+  const s={m, sec, state:{sortKey:'current_price', asc:true, dealsOnly:false, filters:{}, yearMin:null, yearMax:null}};
   // one delegated listener for this section's chips
   sec.querySelector('.facet-host').addEventListener('click', e=>{
     const clr=e.target.closest('.chip-clear'); if(clr){ s.state.filters={}; renderModel(s); return; }
@@ -433,6 +457,20 @@ const sections = MODELS.map((m,i)=>{
     (f[dim]=f[dim]||new Set()).has(val) ? f[dim].delete(val) : f[dim].add(val);
     renderModel(s);
   });
+  const yrMin=sec.querySelector('.yr-min'), yrMax=sec.querySelector('.yr-max'), yrClear=sec.querySelector('.yr-clear');
+  if(yrMin){
+    const onYearInput=()=>{
+      const lo=yrMin.value===''?null:parseInt(yrMin.value,10);
+      const hi=yrMax.value===''?null:parseInt(yrMax.value,10);
+      s.state.yearMin=Number.isNaN(lo)?null:lo;
+      s.state.yearMax=Number.isNaN(hi)?null:hi;
+      yrClear.hidden = (s.state.yearMin==null && s.state.yearMax==null);
+      renderModel(s);
+    };
+    yrMin.addEventListener('input', onYearInput);
+    yrMax.addEventListener('input', onYearInput);
+    yrClear.addEventListener('click', ()=>{ yrMin.value=''; yrMax.value=''; onYearInput(); });
+  }
   return s;
 });
 
@@ -458,7 +496,7 @@ function renderFacets(s){
 
 function renderModel(s){
   renderFacets(s);
-  const rows=applyFacets(rowsOf(s.m), s.state.filters);
+  const rows=applyYearRange(applyFacets(rowsOf(s.m), s.state.filters), s.state);
   s.sec.querySelector('.kpi-host').innerHTML = kpiCards(rows);
   dealChart(s.sec.querySelector('.deal'), rows);
   trendChart(s.sec.querySelector('.trend'), marketTrend(rows));
