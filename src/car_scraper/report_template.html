@@ -185,7 +185,7 @@ const median = a => { if(!a.length) return 0; const s=[...a].sort((x,y)=>x-y); c
 // ---- working set: historical toggle (base) ∩ facet chips (per section) ----
 const isActive = c => c.active !== false;
 const rowsOf = m => showHistorical ? m.listings : m.listings.filter(isActive);
-const FACET_DIMS = [['variant','Engine'],['body','Body'],['trim','Trim'],['country','Origin']];
+const FACET_DIMS = [['variant','Engine'],['body','Body'],['trim','Trim'],['vat','VAT'],['country','Origin']];
 const UNKNOWN = 'Unknown';
 // Facet value of a car for a dimension. Missing/blank -> an explicit "Unknown"
 // bucket so a dimension's chip counts always sum to the working-set size (older
@@ -363,7 +363,7 @@ const COLS=[['#','internal_id'],['Title','title'],['Year','year'],['Mileage','mi
 const NUMERIC=new Set(['internal_id','year','mileage','engine_power','deal_pct','current_price']);
 const cellVal=(c,key)=> key==='_origin' ? (c.facets&&c.facets.country) : c[key];
 const facetLine=c=>{ const f=c.facets||{};
-  return [f.variant,f.body,f.trim].filter(Boolean).join(' · '); };
+  return [f.variant,f.body,f.trim,f.hints].filter(Boolean).join(' · '); };
 
 function renderTable(host, rows, st){
   let data=rows.slice();
