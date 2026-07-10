@@ -17,8 +17,7 @@ import statistics
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from src.car_scraper.facets import classify
-
+from src.car_scraper.facets import bmw_engine_variant, classify
 
 def _md_escape(s: str) -> str:
     """Escape characters that would break out of a markdown link/text."""
@@ -125,6 +124,46 @@ def _ols(features: list[list[float]], ys: list[float]) -> list[float] | None:
     ]
     xty = [sum(rows[r][i] * ys[r] for r in range(len(rows))) for i in range(k)]
     return _solve(xtx, xty)
+
+
+_BMW_X3_X4_KEYS = {
+    "bmw-x3-2022", "bmw-x3-2023", "bmw-x3-2024",
+    "bmw-x4-2022", "bmw-x4-2023", "bmw-x4-2024",
+}
+_BMW_BUFFER_PLN = 5000  # assume every car can be talked down this much
+_BMW_MIN_PEER_GROUP = 3  # same rule as the buying-criteria skill
+
+
+def _bmw_peer_scores(listings: list[dict]) -> None:
+    """BMW X3/X4 deal score: price (after a 5000 PLN negotiation buffer) vs
+    the median of other listings with the *same engine variant* (20i/30i/20d)
+    in this target. Replaces the generic mileage/year regression for these
+    targets specifically, because a 30i and a 20i at the same mileage are not
+    comparable — grouping by engine keeps the median meaningful. Needs >=3
+    same-engine peers, matching the buying-criteria skill's rule; otherwise
+    the listing is left unscored (deal_pct stays None, same as "not enough
+    data" elsewhere in this file).
+    """
+    variants: list[str | None] = []
+    groups: dict[str, list[float]] = {}
+    for car in listings:
+        text = " ".join(
+            str(car.get(k) or "") for k in ("title", "version", "short_description")
+        )
+        v = bmw_engine_variant(text)
+        variants.append(v)
+        price = car.get("current_price")
+        if v and isinstance(price, (int, float)) and price > 0:
+            groups.setdefault(v, []).append(price - _BMW_BUFFER_PLN)
+
+    for car, v in zip(listings, variants, strict=False):
+        price = car.get("current_price")
+        peers = groups.get(v, []) if v else []
+        if v and isinstance(price, (int, float)) and price > 0 and len(peers) >= _BMW_MIN_PEER_GROUP:
+            median_est = statistics.median(peers)
+            est_purchase = price - _BMW_BUFFER_PLN
+            car["predicted_price"] = round(median_est + _BMW_BUFFER_PLN)
+            car["deal_pct"] = round((est_purchase - median_est) / median_est * 100, 1)
 
 
 def _deal_scores(listings: list[dict]) -> None:
@@ -268,8 +307,11 @@ def _prep_model(model: dict) -> dict:
     :func:`_market_trend` (kept here as the tested reference implementation).
     """
     listings = model["listings"]
-    _deal_scores(listings)
     key = model["key"]
+    if key in _BMW_X3_X4_KEYS:
+        _bmw_peer_scores(listings)
+    else:
+        _deal_scores(listings)
 
     def slim(listing):
         out = {k: listing.get(k) for k in _KEEP}
