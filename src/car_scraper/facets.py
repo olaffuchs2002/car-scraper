@@ -253,12 +253,77 @@ def _toyota_gr86(text: str, _listing: dict) -> dict:
     return {"trim": _first(text, _GR86_TRIM)}
 
 
+_BMW_ENGINE_VARIANTS = ["20i", "30i", "20d"]
+
+
+def bmw_engine_variant(text: str) -> str | None:
+    """20i / 30i / 20d if the title/description names it explicitly, else None.
+
+    Deliberately conservative: a bare "BMW X3" with no variant token is left
+    unclassified rather than guessed from engine_power (shared by trims).
+    """
+    t = text.lower()
+    for v in _BMW_ENGINE_VARIANTS:
+        if v in t:
+            return v
+    return None
+
+
+_BMW_M_PAKIET_RX = re.compile(r"m[\s-]?pak|m[\s-]?sport", re.I)
+_BMW_FV_VAT_RX = re.compile(r"faktura\%?vat|f-?vat|fv\s?vat|fv\s?23|f\s?vat|vat\s?23", re.I)
+_BMW_VAT_MARZA_RX = re.compile(r"vat[\s-]?mar[cxł]a?", re.I)
+
+# (chip label, pattern) — matched against title+version+short_description.
+# Mirrors the "wyposazenie standardowe/dodatkowe" checklist from the BMW
+# X3/X4 buying-criteria skill; here it's a text hint (no listing-page
+# deep-dive), so treat a miss as "not mentioned", not "confirmed absent".
+_BMW_FEATURE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
+    ("360°", re.compile(r"kamer[ay]\s?360|360\s?stopni", re.I)),
+    ("Ogrz. fotele", re.compile(r"podgrzewan\w*\s?fotel|ogrz\.?\s?fotel", re.I)),
+    ("Dostęp komf.", re.compile(r"dostep komfortow|keyless", re.I)),
+    ("Live Cockpit", re.compile(r"live cockpit|cockpit professional", re.I)),
+    ("LED adapt.", re.compile(r"adaptacyjn\w*\s?(reflektor|led)|led\s?adaptacyjn", re.I)),
+    ("Koła 20\"", re.compile(r"\bkola?\s?20\b|felgi\s?20|alu\s?20|\b20[\"']", re.I)),
+    ("Panorama", re.compile(r"panoramiczn|szklany dach|\bpanorama\b", re.I)),
+    ("Harman/HiFi", re.compile(r"harman|hi-?fi", re.I)),
+    ("Grzana kier.", re.compile(r"podgrzewan\w*\s?kierown|ogrzewanie kierownicy|grzana kier", re.I)),
+    ("HAK", re.compile(r"\bhak\b|hak holownicz", re.I)),
+    ("Asystenci", re.compile(r"systemy asystuj|asystent jazdy|active guard", re.I)),
+    ("Zawieszenie adapt.", re.compile(r"zawieszenie adaptacyjne|\bedc\b", re.I)),
+]
+
+
+def _bmw_x3_x4(text: str, _listing: dict) -> dict:
+    """Engine variant (-> 'Engine' chip), M Pakiet (-> 'Trim' chip), VAT type
+    (-> 'VAT' chip) and a free-text equipment-hint line, all from the listing
+    title/description. See kupno-bmw-x3-x4-otomoto skill for the full
+    criteria this mirrors; this is the always-on text-hint version, not a
+    per-listing deep-dive (that still needs opening the individual offer).
+    """
+    variant = bmw_engine_variant(text)
+    trim = "M Sport" if _BMW_M_PAKIET_RX.search(text) else None
+    if _BMW_FV_VAT_RX.search(text):
+        vat = "Faktura VAT"
+    elif _BMW_VAT_MARZA_RX.search(text):
+        vat = "VAT-marża"
+    else:
+        vat = None
+    hints = " · ".join(label for label, pat in _BMW_FEATURE_PATTERNS if pat.search(text))
+    return {"variant": variant, "trim": trim, "vat": vat, "hints": hints or None}
+
+
 # model key -> classifier. Models not listed get only the shared origin facet.
 _CLASSIFIERS = {
     "lexus-lc": _lexus_lc,
     "mazda-mx-5": _mazda_mx5,
     "toyota-supra": _toyota_supra,
     "toyota-gr86": _toyota_gr86,
+    "bmw-x3-2022": _bmw_x3_x4,
+    "bmw-x3-2023": _bmw_x3_x4,
+    "bmw-x3-2024": _bmw_x3_x4,
+    "bmw-x4-2022": _bmw_x3_x4,
+    "bmw-x4-2023": _bmw_x3_x4,
+    "bmw-x4-2024": _bmw_x3_x4,
 }
 
 
