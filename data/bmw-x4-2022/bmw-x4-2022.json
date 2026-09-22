@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-21T11:40:46.786707",
+    "last_updated": "2026-09-22T10:44:44.243206",
     "total_listings": 67,
     "model": "bmw-x4-2022"
   },
@@ -293,9 +293,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6I1ZuC.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1783691513,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1783691513,
@@ -324,7 +324,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Katowice",
-      "created_at": "2026-08-23T09:50:59Z"
+      "created_at": "2026-09-22T10:01:11Z"
     },
     "6148709671": {
       "id": "6148709671",
@@ -401,9 +401,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6I5vQM.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1783691513,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1783691513,
@@ -622,9 +622,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6HXMWP.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1783691513,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1783691513,
@@ -783,9 +783,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6HEF54.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1783691513,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1783691513,
@@ -1218,9 +1218,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IalQg.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1784708127,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1784708127,
@@ -1259,9 +1259,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IaCD3.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1784966186,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1784966186,
@@ -1417,9 +1417,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6HzCnl.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-14",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1786691710,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1786691710,
@@ -1605,7 +1605,7 @@
         ]
       ],
       "price_change": -2001,
-      "active": true,
+      "active": false,
       "version": "xDrive30i",
       "short_description": "X4,245KM,Bardzo Ładne,Mały Przebieg 46000km !!!",
       "fuel_type": "petrol",
@@ -1622,22 +1622,26 @@
       "internal_id": 45,
       "title": "BMW X4 xDrive30i xLine",
       "initial_price": 210000,
-      "current_price": 210000,
+      "current_price": 204999,
       "year": 2022,
       "mileage": 36217,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IdkzF.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1787553751,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1787553751,
           210000
+        ],
+        [
+          1790073884,
+          204999
         ]
       ],
-      "price_change": 0,
+      "price_change": -5001,
       "active": true,
       "version": "xDrive30i xLine",
       "short_description": "Pierwszy właściciel hak elektryczny",
@@ -1646,7 +1650,7 @@
       "engine_power": 252,
       "engine_capacity": 1998,
       "location": "Brzeg",
-      "created_at": "2026-08-23T12:48:39Z"
+      "created_at": "2026-09-22T04:31:16Z"
     },
     "6150139139": {
       "id": "6150139139",
@@ -1686,22 +1690,26 @@
       "internal_id": 47,
       "title": "BMW X4 xDrive25d Advantage sport",
       "initial_price": 24900,
-      "current_price": 24900,
+      "current_price": 18500,
       "year": 2022,
       "mileage": 14000,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6FyFJT.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1787726183,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1787726183,
           24900
+        ],
+        [
+          1790073884,
+          18500
         ]
       ],
-      "price_change": 0,
+      "price_change": -6400,
       "active": true,
       "version": "xDrive25d Advantage sport",
       "short_description": "uszkodzony",
@@ -1725,9 +1733,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-OLX_ID6IdNar.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1787939958,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1787939958,
@@ -1761,9 +1769,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IdW4t.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788087666,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788087666,
@@ -1823,9 +1831,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IdT5D.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788087666,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788087666,
@@ -1856,9 +1864,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IecWS.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788431470,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788431470,
@@ -1889,9 +1897,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IeqQJ.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788689024,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788689024,
@@ -1913,15 +1921,15 @@
       "internal_id": 54,
       "title": "BMW X4 xDrive20i sport",
       "initial_price": 163000,
-      "current_price": 159000,
+      "current_price": 153000,
       "year": 2022,
       "mileage": 61288,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IepvX.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788689024,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788689024,
@@ -1930,9 +1938,13 @@
         [
           1789385195,
           159000
+        ],
+        [
+          1790073884,
+          153000
         ]
       ],
-      "price_change": -4000,
+      "price_change": -6000,
       "active": true,
       "version": "xDrive20i sport",
       "fuel_type": "petrol",
@@ -1956,9 +1968,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IdbIe.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788689024,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788689024,
@@ -1997,9 +2009,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ies89.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788779795,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788779795,
@@ -2024,15 +2036,15 @@
       "internal_id": 57,
       "title": "BMW X4 xDrive30i mHEV sport",
       "initial_price": 197000,
-      "current_price": 185000,
+      "current_price": 178000,
       "year": 2022,
       "mileage": 11855,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IexTP.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1788863089,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1788863089,
@@ -2041,9 +2053,13 @@
         [
           1789726966,
           185000
+        ],
+        [
+          1790073884,
+          178000
         ]
       ],
-      "price_change": -12000,
+      "price_change": -7000,
       "active": true,
       "version": "xDrive30i mHEV sport",
       "short_description": "Pierwszy Właściciel Niski Przebieg",
@@ -2065,9 +2081,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IeLht.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789035777,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789035777,
@@ -2098,9 +2114,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IePEk.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789122237,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789122237,
@@ -2129,9 +2145,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IeVKH.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789206884,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789206884,
@@ -2161,9 +2177,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6If8Q7.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789469350,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789469350,
@@ -2192,9 +2208,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ifgym.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789555096,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789555096,
@@ -2229,9 +2245,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IfksF.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789642046,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789642046,
@@ -2261,9 +2277,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ifsrf.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789726966,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789726966,
@@ -2293,9 +2309,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ifq8d.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789726966,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789726966,
@@ -2325,9 +2341,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ifvpc.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789812395,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789812395,
@@ -2358,9 +2374,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IfAi9.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "first_scrape_timestamp": 1789899898,
-      "last_scrape_timestamp": 1789990846,
+      "last_scrape_timestamp": 1790073884,
       "price_readings": [
         [
           1789899898,
