@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T12:36:46.024129",
-    "total_listings": 181,
+    "last_updated": "2026-10-09T12:24:27.520329",
+    "total_listings": 183,
     "model": "bmw-x3-2023"
   },
   "listings": {
@@ -46,9 +46,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I3t2t.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -172,9 +172,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I4W2c.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -461,9 +461,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6HPFJA.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -600,9 +600,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I13Pe.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -675,9 +675,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I6PQk.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -778,7 +778,7 @@
         ]
       ],
       "price_change": -4000,
-      "active": true,
+      "active": false,
       "version": "xDrive20i mHEV",
       "short_description": "i 184 KM xDrive | Hi Fi | Faktura VAT 23%",
       "fuel_type": "petrol",
@@ -801,9 +801,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6HDlZR.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -846,9 +846,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6HUnm9.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -1123,15 +1123,15 @@
       "internal_id": 32,
       "title": "BMW X3 xDrive30i M Sport Edition",
       "initial_price": 189999,
-      "current_price": 184999,
+      "current_price": 186999,
       "year": 2023,
-      "mileage": 17300,
+      "mileage": 17500,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I5V4Y.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791376039,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -1140,10 +1140,14 @@
         [
           1784188937,
           184999
+        ],
+        [
+          1791548667,
+          186999
         ]
       ],
-      "price_change": -5000,
-      "active": false,
+      "price_change": 2000,
+      "active": true,
       "version": "xDrive30i M Sport Edition",
       "short_description": "BMW X3 GO1 stan idealny  M PAKIET Harman Kardon",
       "fuel_type": "petrol",
@@ -1153,7 +1157,7 @@
       "country": "cdn",
       "country_label": "Kanada",
       "location": "Białystok",
-      "created_at": "2026-09-07T15:43:26Z"
+      "created_at": "2026-10-09T10:03:29Z"
     },
     "6149108015": {
       "id": "6149108015",
@@ -1703,7 +1707,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "Niski przebieg, FV VAT 23%  / Pakiet areodynamiczny M / HAK /Panorama",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -1725,9 +1729,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I4MuU.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783691509,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783691509,
@@ -1823,9 +1827,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I9JZW.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1783950073,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1783950073,
@@ -2192,7 +2196,7 @@
         ]
       ],
       "price_change": -10000,
-      "active": true,
+      "active": false,
       "version": "xDrive30d mHEV M Sport sport",
       "short_description": "BMW X3 xDrive30d M-Sport Dealer BMW M-Cars",
       "fuel_type": "diesel",
@@ -2284,9 +2288,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Iaa1l.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1784537224,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1784537224,
@@ -3487,9 +3491,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IcOID.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787034686,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787034686,
@@ -3575,7 +3579,7 @@
         ]
       ],
       "price_change": -10000,
-      "active": true,
+      "active": false,
       "version": "xDrive30d mHEV",
       "short_description": "X3 30d xDrive 286KM | Wyświetlacz Head-Up  Zestaw Hi-Fi |",
       "fuel_type": "diesel",
@@ -3834,9 +3838,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ids2s.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787639727,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787639727,
@@ -3871,9 +3875,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IdsEa.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787639727,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787639727,
@@ -4025,9 +4029,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IdG9m.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787850740,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787850740,
@@ -4057,9 +4061,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IdGDv.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787850740,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787850740,
@@ -4090,9 +4094,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IdMXZ.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1787939954,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1787939954,
@@ -4369,9 +4373,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IetaZ.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1788779790,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1788779790,
@@ -4487,7 +4491,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "fuel_type": "petrol",
       "gearbox": "automatic",
       "engine_power": 184,
@@ -4571,9 +4575,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IeJ9C.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789035774,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789035774,
@@ -4609,9 +4613,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6HFXD7.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789122233,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789122233,
@@ -4654,9 +4658,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IeTGg.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789122233,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789122233,
@@ -4719,9 +4723,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IeUhx.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789122233,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789122233,
@@ -4764,9 +4768,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IeVTN.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789206880,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789206880,
@@ -4797,9 +4801,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6If7BA.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789385190,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789385190,
@@ -4827,9 +4831,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6If4my.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789385190,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789385190,
@@ -4859,9 +4863,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IeL8o.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789469345,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789469345,
@@ -4922,9 +4926,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifh0r.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789555092,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789555092,
@@ -4967,9 +4971,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifl45.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789642042,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789642042,
@@ -5002,9 +5006,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifl4O.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789642042,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789642042,
@@ -5042,9 +5046,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfkiF.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789642042,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789642042,
@@ -5112,9 +5116,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifkqz.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789642042,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789642042,
@@ -5145,9 +5149,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfomM.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789726962,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789726962,
@@ -5178,9 +5182,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfnX4.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1789726962,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1789726962,
@@ -5280,9 +5284,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfUfs.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790159729,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790159729,
@@ -5313,9 +5317,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig1R6.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790247279,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790247279,
@@ -5376,9 +5380,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig2Jo.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790247279,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790247279,
@@ -5409,9 +5413,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig1vw.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790247279,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790247279,
@@ -5442,9 +5446,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfZ3P.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790247279,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790247279,
@@ -5473,9 +5477,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig5zW.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790333795,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790333795,
@@ -5506,9 +5510,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgaRP.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790419024,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790419024,
@@ -5537,9 +5541,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgdjV.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790419024,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790419024,
@@ -5569,9 +5573,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig8Bq.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790419024,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790419024,
@@ -5601,9 +5605,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IfY8A.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790419024,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790419024,
@@ -5672,9 +5676,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-OLX_ID6Iggek.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790507410,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790507410,
@@ -5704,9 +5708,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ighon.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790598947,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790598947,
@@ -5735,9 +5739,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgiT3.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790598947,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790598947,
@@ -5771,9 +5775,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Igh1r.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790598947,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790598947,
@@ -5835,9 +5839,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IglaR.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790682977,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790682977,
@@ -5867,9 +5871,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Igq4E.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790768631,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790768631,
@@ -5898,9 +5902,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ig2Lv.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790768631,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790768631,
@@ -5931,9 +5935,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-OLX_ID6Igwgw.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790856767,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790856767,
@@ -5957,22 +5961,26 @@
       "internal_id": 172,
       "title": "BMW X3",
       "initial_price": 170000,
-      "current_price": 170000,
+      "current_price": 164000,
       "year": 2023,
       "mileage": 27460,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgzQ3.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790941345,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790941345,
           170000
+        ],
+        [
+          1791548667,
+          164000
         ]
       ],
-      "price_change": 0,
+      "price_change": -6000,
       "active": true,
       "short_description": "BMW X3 G01 2023 2.0xi",
       "fuel_type": "petrol",
@@ -5995,9 +6003,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Igz4F.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1790941345,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1790941345,
@@ -6028,9 +6036,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgE1a.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791024957,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791024957,
@@ -6060,9 +6068,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgEw7.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791024957,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791024957,
@@ -6097,9 +6105,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgGbW.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791113901,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791113901,
@@ -6130,9 +6138,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgTO6.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791290088,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791290088,
@@ -6162,9 +6170,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgVtb.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791376039,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791376039,
@@ -6192,9 +6200,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgWYT.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791376039,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791376039,
@@ -6225,9 +6233,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IgWKr.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791376039,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791376039,
@@ -6257,9 +6265,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ih0gB.html",
       "model": "bmw-x3-2023",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "first_scrape_timestamp": 1791463006,
-      "last_scrape_timestamp": 1791463006,
+      "last_scrape_timestamp": 1791548667,
       "price_readings": [
         [
           1791463006,
@@ -6276,6 +6284,68 @@
       "engine_capacity": 1998,
       "location": "Kozienice",
       "created_at": "2026-10-07T13:32:58Z"
+    },
+    "6151051786": {
+      "id": "6151051786",
+      "internal_id": 182,
+      "title": "BMW X3",
+      "initial_price": 125000,
+      "current_price": 125000,
+      "year": 2023,
+      "mileage": 49799,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhbyG.html",
+      "model": "bmw-x3-2023",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "first_scrape_timestamp": 1791548667,
+      "last_scrape_timestamp": 1791548667,
+      "price_readings": [
+        [
+          1791548667,
+          125000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "BMW xDrive30i M Sport Line",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 245,
+      "engine_capacity": 1998,
+      "location": "Kazuń Polski",
+      "created_at": "2026-10-09T11:54:19Z"
+    },
+    "6151042353": {
+      "id": "6151042353",
+      "internal_id": 183,
+      "title": "BMW X3 xDrive20d mHEV",
+      "initial_price": 165000,
+      "current_price": 165000,
+      "year": 2023,
+      "mileage": 64000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ih96x.html",
+      "model": "bmw-x3-2023",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "first_scrape_timestamp": 1791548667,
+      "last_scrape_timestamp": 1791548667,
+      "price_readings": [
+        [
+          1791548667,
+          165000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive20d mHEV",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Bielsko-Biała",
+      "created_at": "2026-10-09T03:45:44Z"
     }
   }
 }
