@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T10:40:39.567907",
-    "total_listings": 4206,
+    "last_updated": "2026-10-16T10:27:40.286574",
+    "total_listings": 4249,
     "model": "bmw-wszystkie"
   },
   "listings": {
@@ -3866,9 +3866,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-8-ID6HV14J.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1783624603,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1783624603,
@@ -10872,23 +10872,27 @@
       "internal_id": 329,
       "title": "BMW X3 xDrive30i xLine",
       "initial_price": 169900,
-      "current_price": 169900,
+      "current_price": 164900,
       "year": 2024,
       "mileage": 17301,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I9Keq.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1783950065,
-      "last_scrape_timestamp": 1783950065,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1783950065,
           169900
+        ],
+        [
+          1792146460,
+          164900
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -5000,
+      "active": true,
       "version": "xDrive30i xLine",
       "short_description": "BMW X3 xDrive30i 245KM | 2024 | Panorama | HUD | LED | ASO |",
       "fuel_type": "petrol",
@@ -10898,7 +10902,7 @@
       "country": "usa",
       "country_label": "Stany Zjednoczone",
       "location": "Białystok",
-      "created_at": "2026-07-13T13:03:16Z"
+      "created_at": "2026-10-15T07:05:06Z"
     },
     "6147843055": {
       "id": "6147843055",
@@ -13339,7 +13343,7 @@
         ]
       ],
       "price_change": -11600,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive40d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -14460,7 +14464,7 @@
         ]
       ],
       "price_change": -19900,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -14553,7 +14557,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive40d M-Performance, DEMO - Koła zimowe w cenie!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -15239,9 +15243,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m4-ID6HtbXu.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784114262,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784114262,
@@ -15508,9 +15512,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6I129p.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784114262,
-      "last_scrape_timestamp": 1784360360,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784114262,
@@ -15518,8 +15522,8 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
-      "short_description": "M340i xDrive",
+      "active": true,
+      "short_description": "M340i xDrive szklany dach",
       "fuel_type": "petrol",
       "gearbox": "automatic",
       "engine_power": 392,
@@ -15527,7 +15531,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Wrocław",
-      "created_at": "2026-07-15T08:14:26Z"
+      "created_at": "2026-10-15T10:40:37Z"
     },
     "6145439298": {
       "id": "6145439298",
@@ -16284,7 +16288,7 @@
         ]
       ],
       "price_change": -31256,
-      "active": true,
+      "active": false,
       "version": "220i mHEV M Sport sport",
       "short_description": "Ogrzewana kierownica / Harman Kardon /",
       "fuel_type": "petrol",
@@ -17901,7 +17905,7 @@
         ]
       ],
       "price_change": -8700,
-      "active": true,
+      "active": false,
       "version": "318i",
       "short_description": "Nowa Seria 3 Ice / Ogrzewnie foteli przednich / Panoramic Vision",
       "fuel_type": "petrol",
@@ -18165,7 +18169,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "sDrive20d mHEV",
       "short_description": "Harman Kardon / Deska rozdzielcza Luxury / Dowolna konfiguracja",
       "fuel_type": "diesel",
@@ -18188,9 +18192,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I1d86.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784275141,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784275141,
@@ -18673,9 +18677,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I1cYa.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784275141,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784275141,
@@ -19457,7 +19461,7 @@
         ]
       ],
       "price_change": -10800,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive30d, Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -19561,7 +19565,7 @@
         ]
       ],
       "price_change": -16000,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive30d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -20087,7 +20091,7 @@
         ]
       ],
       "price_change": -10000,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive40d - DEMO - Koła zimowe w cenie!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -20732,15 +20736,15 @@
       "internal_id": 626,
       "title": "BMW X5",
       "initial_price": 389900,
-      "current_price": 374900,
+      "current_price": 384900,
       "year": 2024,
       "mileage": 75860,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Ia32s.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784360360,
-      "last_scrape_timestamp": 1789642035,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784360360,
@@ -20749,10 +20753,14 @@
         [
           1789385175,
           374900
+        ],
+        [
+          1792146460,
+          384900
         ]
       ],
-      "price_change": -15000,
-      "active": false,
+      "price_change": 10000,
+      "active": true,
       "short_description": "BMW X5 M60i xDrive 530 KM, Salon PL, Faktura VAT23%",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -20761,7 +20769,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-14T07:34:01Z"
+      "created_at": "2026-10-15T10:52:41Z"
     },
     "6147399115": {
       "id": "6147399115",
@@ -21079,9 +21087,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6I1ddc.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784360360,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784360360,
@@ -21265,7 +21273,7 @@
         ]
       ],
       "price_change": -11600,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive40d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -21314,15 +21322,15 @@
       "internal_id": 643,
       "title": "BMW Seria 4 M440i xDrive mHEV sport",
       "initial_price": 314900,
-      "current_price": 315900,
+      "current_price": 314900,
       "year": 2025,
       "mileage": 13779,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-4-ID6Ia32T.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784360360,
-      "last_scrape_timestamp": 1789642035,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784360360,
@@ -21331,10 +21339,14 @@
         [
           1789385175,
           315900
+        ],
+        [
+          1792146460,
+          314900
         ]
       ],
-      "price_change": 1000,
-      "active": false,
+      "price_change": -1000,
+      "active": true,
       "short_description": "BMW M440i, Adaptacyjny reflektor LED, Harman, Faktura VAT23",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -21343,7 +21355,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-14T07:34:05Z",
+      "created_at": "2026-10-15T10:52:58Z",
       "version": "M440i xDrive mHEV sport"
     },
     "6147876271": {
@@ -21774,9 +21786,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6I1c8T.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784360360,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784360360,
@@ -21937,9 +21949,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-8-ID6I12KF.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784360360,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784360360,
@@ -22217,7 +22229,7 @@
         ]
       ],
       "price_change": -10700,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive30d, Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -23146,15 +23158,15 @@
       "internal_id": 699,
       "title": "BMW Seria 7",
       "initial_price": 525500,
-      "current_price": 512500,
+      "current_price": 509500,
       "year": 2024,
       "mileage": 54432,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6Ia9kc.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784448353,
-      "last_scrape_timestamp": 1789469337,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784448353,
@@ -23163,17 +23175,21 @@
         [
           1789385175,
           512500
+        ],
+        [
+          1792146460,
+          509500
         ]
       ],
-      "price_change": -13000,
-      "active": false,
+      "price_change": -3000,
+      "active": true,
       "short_description": "BMW M760Le 2024 Plug-in, Folia PPV, Ceramika, TV, Gwarancja, FV",
       "fuel_type": "petrol",
       "gearbox": "automatic",
       "engine_power": 571,
       "engine_capacity": 2998,
       "location": "Katowice",
-      "created_at": "2026-09-12T12:44:50Z"
+      "created_at": "2026-10-13T21:24:24Z"
     },
     "6149372658": {
       "id": "6149372658",
@@ -24341,9 +24357,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-xm-ID6I4tvk.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784621663,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784621663,
@@ -24649,9 +24665,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6HUsKx.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784621663,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784621663,
@@ -24659,7 +24675,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d",
       "short_description": "xDrive30d 298 KM mHEV - Gotowy do Odbioru - Hak - Kamera 360 - M Pro!",
       "fuel_type": "diesel",
@@ -24669,7 +24685,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T19:12:10Z"
+      "created_at": "2026-10-15T19:21:54Z"
     },
     "6145636324": {
       "id": "6145636324",
@@ -24682,9 +24698,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6HUsKv.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784621663,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784621663,
@@ -24692,7 +24708,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d",
       "short_description": "xDrive30d 298 KM mHEV - Gotowy do Odbioru - Hak - Kamera 360 - M Pro!",
       "fuel_type": "diesel",
@@ -24702,7 +24718,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T19:11:55Z"
+      "created_at": "2026-10-15T19:21:39Z"
     },
     "6145636323": {
       "id": "6145636323",
@@ -24715,9 +24731,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6HUsKw.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1784621663,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1784621663,
@@ -24725,7 +24741,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d",
       "short_description": "xDrive30d 298 KM mHEV - Gotowy do Odbioru - Hak - Kamera 360 - M Pro!",
       "fuel_type": "diesel",
@@ -24735,7 +24751,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T19:02:35Z"
+      "created_at": "2026-10-15T19:12:21Z"
     },
     "6148695683": {
       "id": "6148695683",
@@ -34648,9 +34664,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I8BBq.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-27",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1785145078,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1785145078,
@@ -38114,7 +38130,7 @@
         ]
       ],
       "price_change": -11200,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive40d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -42648,9 +42664,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m3-ID6I2jJC.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1785487202,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1785487202,
@@ -51127,32 +51143,39 @@
     "6145242054": {
       "id": "6145242054",
       "internal_id": 1543,
-      "title": "BMW Seria 1",
+      "title": "BMW Seria 1 116",
       "initial_price": 126900,
-      "current_price": 126900,
+      "current_price": 122900,
       "year": 2025,
       "mileage": 5,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6HSObk.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786004593,
-      "last_scrape_timestamp": 1788863077,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786004593,
           126900
+        ],
+        [
+          1792146460,
+          122900
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -4000,
+      "active": true,
       "short_description": "116 | M Design | BMW Gazda",
       "fuel_type": "petrol",
       "gearbox": "automatic",
       "engine_power": 122,
       "engine_capacity": 1499,
       "location": "Katowice",
-      "created_at": "2026-09-08T09:09:18Z"
+      "created_at": "2026-10-13T15:06:02Z",
+      "version": "116",
+      "country": "pl",
+      "country_label": "Polska"
     },
     "6147672085": {
       "id": "6147672085",
@@ -57133,7 +57156,7 @@
         ]
       ],
       "price_change": -6000,
-      "active": true,
+      "active": false,
       "short_description": "28i Xdrive 245KM wersja Xline",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -57877,30 +57900,34 @@
       "internal_id": 1748,
       "title": "BMW Seria 5 530i xDrive mHEV Luxury Line",
       "initial_price": 190000,
-      "current_price": 190000,
+      "current_price": 150000,
       "year": 2023,
       "mileage": 55000,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IbJfH.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786346279,
-      "last_scrape_timestamp": 1786346279,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786346279,
           190000
+        ],
+        [
+          1792146460,
+          150000
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -40000,
+      "active": true,
       "version": "530i xDrive mHEV Luxury Line",
       "fuel_type": "petrol",
       "gearbox": "automatic",
       "engine_power": 252,
       "engine_capacity": 1998,
       "location": "Warszawa",
-      "created_at": "2026-08-06T18:46:39Z"
+      "created_at": "2026-10-16T05:09:33Z"
     },
     "6147272371": {
       "id": "6147272371",
@@ -61716,7 +61743,7 @@
         ]
       ],
       "price_change": -11800,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive40d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -61755,7 +61782,7 @@
         ]
       ],
       "price_change": -6400,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -61793,7 +61820,7 @@
         ]
       ],
       "price_change": -6600,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -62415,7 +62442,7 @@
         ]
       ],
       "price_change": -41700,
-      "active": true,
+      "active": false,
       "short_description": "BMW M5 Touring! NOWE BMW M5! Dostępne od ręki!",
       "fuel_type": "plugin-hybrid",
       "gearbox": "automatic",
@@ -62775,7 +62802,7 @@
         ]
       ],
       "price_change": -12188,
-      "active": true,
+      "active": false,
       "short_description": "Samochód gotowy do odbioru| rocznik 2026",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -63018,7 +63045,7 @@
         ]
       ],
       "price_change": -10700,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive30d Dostępny od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -63087,7 +63114,7 @@
         ]
       ],
       "price_change": -22900,
-      "active": true,
+      "active": false,
       "version": "xDrive30d",
       "short_description": "X5 xDrive30d Dostępne od ręki!",
       "fuel_type": "diesel",
@@ -63388,9 +63415,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6I6mLx.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-14",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786691696,
-      "last_scrape_timestamp": 1791897535,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786691696,
@@ -63398,7 +63425,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d mHEV sport",
       "short_description": "Cesja Leasingu BMW X5 -idealna, bogata wersja",
       "fuel_type": "diesel",
@@ -63667,9 +63694,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IctxK.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-14",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786691696,
-      "last_scrape_timestamp": 1791897535,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786691696,
@@ -63685,7 +63712,7 @@
         ]
       ],
       "price_change": -10000,
-      "active": false,
+      "active": true,
       "version": "M340i xDrive mHEV sport",
       "short_description": "BMW M340i Touring, BSI i BRI, Harman KArdon, Adaptiv LED",
       "fuel_type": "petrol",
@@ -64419,9 +64446,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-4-ID6HY7cj.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786775146,
-      "last_scrape_timestamp": 1791113892,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786775146,
@@ -64433,7 +64460,7 @@
         ]
       ],
       "price_change": -30000,
-      "active": false,
+      "active": true,
       "short_description": "BMW M440d xDrive MHEV Sport.Salonowy",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -64442,7 +64469,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Binczarowa",
-      "created_at": "2026-10-01T09:29:23Z",
+      "created_at": "2026-10-16T08:59:49Z",
       "version": "M440d xDrive mHEV sport"
     },
     "6149953850": {
@@ -65124,9 +65151,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-8-ID6IcyML.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-16",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786861670,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786861670,
@@ -66467,7 +66494,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20 mHEV",
       "short_description": "xDrive20 mHEV automat - Od ręki !",
       "fuel_type": "petrol",
@@ -66500,7 +66527,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20 mHEV",
       "short_description": "xDrive20 mHEV automat - Od ręki !",
       "fuel_type": "petrol",
@@ -66533,7 +66560,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20d mHEV",
       "short_description": "xDrive20d mHEV automat - Od ręki !",
       "fuel_type": "diesel",
@@ -67157,23 +67184,27 @@
       "internal_id": 2033,
       "title": "BMW Seria 5",
       "initial_price": 207800,
-      "current_price": 207800,
+      "current_price": 195500,
       "year": 2024,
       "mileage": 8200,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6Ia4Gi.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1786948780,
-      "last_scrape_timestamp": 1786948780,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1786948780,
           207800
+        ],
+        [
+          1792146460,
+          195500
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -12300,
+      "active": true,
       "short_description": "520i Sedan Mpakiet",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -67182,7 +67213,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Olsztyn",
-      "created_at": "2026-08-16T15:05:03Z"
+      "created_at": "2026-10-15T15:45:05Z"
     },
     "6146433573": {
       "id": "6146433573",
@@ -69187,9 +69218,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6I1aDJ.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787121125,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787121125,
@@ -69224,9 +69255,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6I1am8.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787121125,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787121125,
@@ -71763,9 +71794,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-4-ID6Ia9AT.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787207670,
-      "last_scrape_timestamp": 1789899886,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787207670,
@@ -71773,7 +71804,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "430i xDrive M Sport sport",
       "short_description": "BMW Seria 4 Gran Coupé 430i xDrive M Sport",
       "fuel_type": "petrol",
@@ -71783,7 +71814,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Dąbrowa Górnicza",
-      "created_at": "2026-09-17T04:50:31Z"
+      "created_at": "2026-10-15T12:57:22Z"
     },
     "6150018673": {
       "id": "6150018673",
@@ -74629,9 +74660,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IcXbq.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787380080,
-      "last_scrape_timestamp": 1789642035,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787380080,
@@ -74639,7 +74670,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive40i mHEV M Sport sport",
       "short_description": "xDrive40i OD RĘKI!",
       "fuel_type": "petrol",
@@ -74649,7 +74680,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Dąbrowa Górnicza",
-      "created_at": "2026-09-17T08:05:35Z"
+      "created_at": "2026-10-16T06:54:32Z"
     },
     "6149959191": {
       "id": "6149959191",
@@ -75396,9 +75427,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m4-ID6IdlC2.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787553739,
-      "last_scrape_timestamp": 1791975528,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787553739,
@@ -75410,7 +75441,7 @@
         ]
       ],
       "price_change": -18000,
-      "active": false,
+      "active": true,
       "version": "Competition M xDrive sport",
       "short_description": "BMW M4 FROZEN BLACK + koła i dodatki M-performance, PPF",
       "fuel_type": "petrol",
@@ -80036,9 +80067,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdFXu.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1787850734,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1787850734,
@@ -88203,7 +88234,7 @@
         ]
       ],
       "price_change": -5000,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Szary Dravit Merino Black Wentylacja foteli Kamery 360° MDriver Gotowa",
       "fuel_type": "petrol",
@@ -89246,7 +89277,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "M",
       "short_description": "Hak Dach Panoramiczny Bowers & Wilkins Masaż Gotowa do odbioru!",
       "fuel_type": "petrol",
@@ -91919,7 +91950,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "BMW X1 xDrive30e",
       "fuel_type": "plugin-hybrid",
       "gearbox": "automatic",
@@ -98845,7 +98876,7 @@
         ]
       ],
       "price_change": -68700,
-      "active": true,
+      "active": false,
       "version": "Competition",
       "short_description": "X5 M Competition -  Dostępne od ręki!",
       "fuel_type": "petrol",
@@ -99399,7 +99430,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive30d, Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -99463,7 +99494,7 @@
         ]
       ],
       "price_change": -10300,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive30d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -99524,7 +99555,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "X6 xDrive30d, Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -99777,7 +99808,7 @@
         ]
       ],
       "price_change": -6400,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -99843,7 +99874,7 @@
         ]
       ],
       "price_change": -6600,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -100067,7 +100098,7 @@
         ]
       ],
       "price_change": -26800,
-      "active": true,
+      "active": false,
       "short_description": "NOWE BMW X3 M50 xDrive M-Performance",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -100544,7 +100575,7 @@
         ]
       ],
       "price_change": 17700,
-      "active": true,
+      "active": false,
       "version": "740 xDrive",
       "short_description": "40 xDrive 400 KM mHEV - DEMO 2026 - Nowa Seria 7!",
       "fuel_type": "petrol",
@@ -100612,7 +100643,7 @@
         ]
       ],
       "price_change": -37959,
-      "active": true,
+      "active": false,
       "short_description": "50e 476 KM PHEV - Gotowy do Odbioru - BowersWilkins Diamond - Hak!",
       "fuel_type": "plugin-hybrid",
       "gearbox": "automatic",
@@ -100645,7 +100676,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30d",
       "short_description": "xDrive30d 298 KM mHEV - Gotowy do Odbioru - M Pro - Hak Holowniczy!",
       "fuel_type": "diesel",
@@ -100678,7 +100709,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "M3 Competition M xDrive Sedan 530 KM - Gotowy do Odbioru - Kamera 360!",
       "fuel_type": "petrol",
@@ -100767,9 +100798,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IctUB.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789296851,
-      "last_scrape_timestamp": 1789385175,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789296851,
@@ -100777,7 +100808,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Gotowy do odbioru - Pakiet M Pro - Kamera 360!",
       "fuel_type": "petrol",
@@ -100787,7 +100818,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-12T16:31:26Z"
+      "created_at": "2026-10-15T15:07:22Z"
     },
     "6149930922": {
       "id": "6149930922",
@@ -100810,7 +100841,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Kamera 360!",
       "fuel_type": "petrol",
@@ -100847,7 +100878,7 @@
         ]
       ],
       "price_change": -25700,
-      "active": true,
+      "active": false,
       "version": "xDrive40d M Sport",
       "short_description": "xDrive40d 352KM mHEV - Gotowy do Odbioru - Lakierowanie BMW Individual",
       "fuel_type": "diesel",
@@ -100912,7 +100943,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "123 mHEV xDrive",
       "short_description": "AUTO DOSTĘPNE OD RĘKI | Pakiet sportowy M | Sportowe fotele",
       "fuel_type": "petrol",
@@ -100949,7 +100980,7 @@
         ]
       ],
       "price_change": -22443,
-      "active": true,
+      "active": false,
       "short_description": "BMW Bawaria Motors Janki | Samochód gotowy do odbioru X3 M50",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -100981,7 +101012,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40d",
       "short_description": "xDrive40d 352 KM mHEV - Pakiet M Pro - Sky Lounge - Hak - Iconic Glow!",
       "fuel_type": "diesel",
@@ -101176,7 +101207,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "sDrive20i M Sportpaket",
       "short_description": "sDrive20i 170 KM mHEV - Gotowy do Odbioru - Pakiet M Sport!",
       "fuel_type": "petrol",
@@ -101217,7 +101248,7 @@
         ]
       ],
       "price_change": -16316,
-      "active": true,
+      "active": false,
       "short_description": "20d xDrive 197 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Hak!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -101331,9 +101362,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-2-ID6If64p.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789385175,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789385175,
@@ -101381,7 +101412,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Kamera 360!",
       "fuel_type": "petrol",
@@ -101414,7 +101445,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Pakiet M Pro - Kamera 360 - Hak Holowniczy!",
       "fuel_type": "petrol",
@@ -101599,9 +101630,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6I9Vp6.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789385175,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789385175,
@@ -101936,7 +101967,7 @@
         ]
       ],
       "price_change": -18495,
-      "active": true,
+      "active": false,
       "short_description": "Competition M xDrive Coupé 530 KM - Lakierowanie BMW Individual!",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -102073,7 +102104,7 @@
         ]
       ],
       "price_change": -20300,
-      "active": true,
+      "active": false,
       "version": "xDrive40d",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -102113,7 +102144,7 @@
         ]
       ],
       "price_change": -20300,
-      "active": true,
+      "active": false,
       "version": "xDrive40d",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -102149,7 +102180,7 @@
         ]
       ],
       "price_change": -20000,
-      "active": true,
+      "active": false,
       "short_description": "BMW Seria 4 M440i xDrive mHEV Sport  Jeden Właściciel Serwis ASO",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -102218,7 +102249,7 @@
         ]
       ],
       "price_change": -2600,
-      "active": true,
+      "active": false,
       "short_description": "Sprzedam bmw x3 g01 m40i b58 4x4",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -102754,9 +102785,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifhpk.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -102764,7 +102795,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive20d mHEV",
       "short_description": "20.T-KM*M-Sport*X-Drive*Kamera*3xCLiMA*Lane+*I-Conic GLOW+*LED+*EL.HaK",
       "fuel_type": "diesel",
@@ -102774,7 +102805,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Mysłowice",
-      "created_at": "2026-09-15T20:25:21Z"
+      "created_at": "2026-10-15T20:32:48Z"
     },
     "6150599778": {
       "id": "6150599778",
@@ -102787,9 +102818,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m2-ID6IfhYe.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -102797,7 +102828,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "M xDrive",
       "short_description": "M2 M xDrive Coupé 480 KM - Pakiet Plus - HarmanKardon - M Driver!",
       "fuel_type": "petrol",
@@ -102807,30 +102838,34 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-16T06:21:18Z"
+      "created_at": "2026-10-16T06:21:32Z"
     },
     "6150599986": {
       "id": "6150599986",
       "internal_id": 3113,
       "title": "BMW M2 Standard",
       "initial_price": 359900,
-      "current_price": 359900,
+      "current_price": 347904,
       "year": 2026,
       "mileage": 5,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m2-ID6Ifi1A.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
           359900
+        ],
+        [
+          1792146460,
+          347904
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -11996,
+      "active": true,
       "version": "Standard",
       "short_description": "M2 Coupé 480 KM - Aktywny Tempomat - Pakiet Plus!",
       "fuel_type": "petrol",
@@ -102840,7 +102875,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Lubicz Dolny",
-      "created_at": "2026-09-16T06:31:13Z"
+      "created_at": "2026-10-16T06:31:53Z"
     },
     "6149617157": {
       "id": "6149617157",
@@ -102880,23 +102915,27 @@
       "internal_id": 3115,
       "title": "BMW X5 xDrive40d",
       "initial_price": 472600,
-      "current_price": 472600,
+      "current_price": 487600,
       "year": 2026,
       "mileage": 5,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IfgKi.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789726955,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
           472600
+        ],
+        [
+          1792146460,
+          487600
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": 15000,
+      "active": true,
       "version": "xDrive40d",
       "short_description": "xDrive40d 352 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Kamera 360!",
       "fuel_type": "diesel",
@@ -102906,7 +102945,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T16:43:24Z"
+      "created_at": "2026-10-15T16:52:21Z"
     },
     "6150595183": {
       "id": "6150595183",
@@ -102919,9 +102958,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IfgM7.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789726955,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -102929,7 +102968,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive40d M Sport",
       "short_description": "xDrive40d 352 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Kamera 360!",
       "fuel_type": "diesel",
@@ -102939,7 +102978,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T16:49:41Z"
+      "created_at": "2026-10-15T16:52:49Z"
     },
     "6150601820": {
       "id": "6150601820",
@@ -102952,9 +102991,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-2-ID6Ifiwa.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -102999,7 +103038,7 @@
         ]
       ],
       "price_change": -19500,
-      "active": true,
+      "active": false,
       "version": "xDrive40d",
       "short_description": "xDrive40d 352 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Hak!",
       "fuel_type": "diesel",
@@ -103036,7 +103075,7 @@
         ]
       ],
       "price_change": -20300,
-      "active": true,
+      "active": false,
       "version": "xDrive40d",
       "short_description": "xDrive40d 352 KM mHEV - Gotowy do Odbioru - Pakiet M Pro - Hak!",
       "fuel_type": "diesel",
@@ -103196,9 +103235,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IfgTi.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -103206,7 +103245,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "sDrive20i M Sportpaket",
       "short_description": "sDrive20i 170 KM mHEV - Gotowy do Odbioru - Pakiet M Sport!",
       "fuel_type": "petrol",
@@ -103216,7 +103255,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Lubicz Dolny",
-      "created_at": "2026-09-15T17:24:28Z"
+      "created_at": "2026-10-15T17:31:24Z"
     },
     "6150599108": {
       "id": "6150599108",
@@ -103229,9 +103268,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IfhNq.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -103239,7 +103278,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "M135 xDrive",
       "short_description": "| I właściciel | M Sport | Gwarancja | Bezwypadkowy | FVAT23% |",
       "fuel_type": "petrol",
@@ -103249,7 +103288,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Długołęka",
-      "created_at": "2026-09-16T05:05:27Z"
+      "created_at": "2026-10-16T05:11:01Z"
     },
     "6150592244": {
       "id": "6150592244",
@@ -103322,23 +103361,27 @@
       "internal_id": 3128,
       "title": "BMW X3 20d xDrive",
       "initial_price": 327900,
-      "current_price": 327900,
+      "current_price": 296220,
       "year": 2026,
       "mileage": 5,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6HUsGF.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789812381,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
           327900
+        ],
+        [
+          1792146460,
+          296220
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -31680,
+      "active": true,
       "version": "20d xDrive",
       "short_description": "20d xDrive 197 KM mHEV - Gotowy do Odbioru - Kamera 360 - Hak!",
       "fuel_type": "diesel",
@@ -103348,7 +103391,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Lubicz Dolny",
-      "created_at": "2026-09-15T18:31:56Z"
+      "created_at": "2026-10-15T18:41:42Z"
     },
     "6150594709": {
       "id": "6150594709",
@@ -103361,9 +103404,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IfgEt.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789726955,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -103371,7 +103414,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "520d xDrive",
       "short_description": "20d xDrive Touring 197 KM mHEV - Gotowy do Odbioru - Pakiet M Pro!",
       "fuel_type": "diesel",
@@ -103381,7 +103424,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Bydgoszcz",
-      "created_at": "2026-09-15T16:15:23Z"
+      "created_at": "2026-10-15T16:22:12Z"
     },
     "6150590523": {
       "id": "6150590523",
@@ -103559,9 +103602,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IfiU7.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789555084,
-      "last_scrape_timestamp": 1789555084,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789555084,
@@ -103569,7 +103612,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "sDrive20i mHEV M Sport sport",
       "short_description": "sDrive20i mHEV 156K M M Sport sport-automat",
       "fuel_type": "petrol",
@@ -103579,7 +103622,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Warszawa",
-      "created_at": "2026-09-16T09:53:16Z"
+      "created_at": "2026-10-16T10:02:34Z"
     },
     "6150582607": {
       "id": "6150582607",
@@ -104261,9 +104304,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IfmNW.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1789642035,
-      "last_scrape_timestamp": 1789899886,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1789642035,
@@ -104271,7 +104314,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive40d",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -104280,7 +104323,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Dąbrowa Górnicza",
-      "created_at": "2026-09-17T08:29:28Z"
+      "created_at": "2026-10-15T13:48:22Z"
     },
     "6150003603": {
       "id": "6150003603",
@@ -123952,32 +123995,36 @@
       "internal_id": 3763,
       "title": "BMW M5",
       "initial_price": 564900,
-      "current_price": 564900,
+      "current_price": 549900,
       "year": 2025,
       "mileage": 12626,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m5-ID6IegZK.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791024946,
-      "last_scrape_timestamp": 1791024946,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791024946,
           564900
+        ],
+        [
+          1792146460,
+          549900
         ]
       ],
-      "price_change": 0,
-      "active": false,
+      "price_change": -15000,
+      "active": true,
       "short_description": "Driving Assistant Professional | BOWERS",
-      "fuel_type": "petrol",
+      "fuel_type": "plugin-hybrid",
       "gearbox": "automatic",
       "engine_power": 727,
       "engine_capacity": 4395,
       "country": "pl",
       "country_label": "Polska",
       "location": "Warszawa",
-      "created_at": "2026-10-02T14:10:19Z"
+      "created_at": "2026-10-16T09:27:22Z"
     },
     "6147604895": {
       "id": "6147604895",
@@ -134505,7 +134552,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "118d Salon Polska",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -134537,7 +134584,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "M440i xDrive",
       "short_description": "* M440i 374KM * II LIFT * Cabrio * Lasery * Head Up * Wentyle * MEGA",
       "fuel_type": "petrol",
@@ -134570,7 +134617,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20d mHEV M Sport sport",
       "short_description": "G01 LIFT * X3 xDrive20d * 190KM mHEV * M-PAKIET * Shadow Line * HARMAN",
       "fuel_type": "diesel",
@@ -134603,7 +134650,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "420d xDrive mHEV M Sport sport",
       "short_description": "M Sport Pro Individual Kamera360 Asystenci Harman Kardon Szyberdach",
       "fuel_type": "diesel",
@@ -134636,7 +134683,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "318d",
       "short_description": "Nowe hamulce, 100% oryginalny niski przebieg, OKAZJA",
       "fuel_type": "diesel",
@@ -134667,7 +134714,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "sDrive20i mHEV M Sport sport",
       "short_description": "sDrive20i mHEV M Sport sport-automat",
       "fuel_type": "petrol",
@@ -134834,7 +134881,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "fuel_type": "diesel",
       "gearbox": "automatic",
       "engine_power": 286,
@@ -134863,7 +134910,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30d mHEV M Sport sport",
       "short_description": "| X5 xDrive30d M Sport Pro | 298 KM | Hak elektryczny | Iconic Glow |",
       "fuel_type": "diesel",
@@ -134988,7 +135035,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "320d xDrive mHEV M Sport sport",
       "short_description": "M Sport Shadow CARBON Kamera360 Asystenci HUD Szyberdach",
       "fuel_type": "diesel",
@@ -135021,7 +135068,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "Dostępny od ręki | 2026 | Pakiet sportowy M |",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -135146,7 +135193,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "540d xDrive mHEV M Sport",
       "short_description": "540d xDrive M Sport  3.0 (303 KM)| Asystent parkowania Plus",
       "fuel_type": "diesel",
@@ -135179,7 +135226,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "X5 xDrive30d Dostępne od ręki!",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -135269,7 +135316,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30d",
       "short_description": "BMW X6 30d M PRO | Polski Autoryzowany Salon! | Duży Rabat!",
       "fuel_type": "diesel",
@@ -135302,7 +135349,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40d mHEV sport",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -135399,7 +135446,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "X7 xDrive40d - DEMO",
       "fuel_type": "diesel",
       "gearbox": "automatic",
@@ -135429,7 +135476,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "short_description": "M340i xDrive Sedan, Dostępny od ręki!",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -135557,7 +135604,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "320i M Sport sport",
       "short_description": "320i M Sport sport automat - Od ręki!",
       "fuel_type": "petrol",
@@ -135590,7 +135637,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "320i M Sport sport",
       "short_description": "320i M Sport sport-automat - Od ręki!",
       "fuel_type": "petrol",
@@ -135623,7 +135670,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "320i M Sport sport",
       "short_description": "320i M Sport sport-automat - Od ręki !",
       "fuel_type": "petrol",
@@ -135741,9 +135788,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Iht2s.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -135780,7 +135827,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Competition M xDrive Coupé 530 KM - Lakier BMW Individual!",
       "fuel_type": "petrol",
@@ -135813,7 +135860,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Competition M xDrive Coupé 530 KM - Lakier BMW Individual!",
       "fuel_type": "petrol",
@@ -135836,9 +135883,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m2-ID6IhsZi.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -135879,7 +135926,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Competition M xDrive 530 KM - Lakierowanie BMW Individual - Kamera 360",
       "fuel_type": "petrol",
@@ -135912,7 +135959,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Competition M xDrive Coupe 530 KM - Lakierowanie BMW Individual!",
       "fuel_type": "petrol",
@@ -135945,7 +135992,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "short_description": "Competition M xDrive Coupé 530 KM - Lakier BMW Individual - Kamera 360",
       "fuel_type": "petrol",
@@ -135968,9 +136015,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m2-ID6IhsXD.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136011,7 +136058,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Lakierowanie BMW Individual - Sky Lounge!",
       "fuel_type": "petrol",
@@ -136044,7 +136091,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Lakierowanie BMW Individual - Hak - Sky Lounge",
       "fuel_type": "petrol",
@@ -136077,7 +136124,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive40i",
       "short_description": "xDrive40i 381 KM mHEV - Lakier BMW Individual - Hak - Sky Lounge!",
       "fuel_type": "petrol",
@@ -136132,9 +136179,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhtrT.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136173,7 +136220,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "Competition M xDrive",
       "fuel_type": "petrol",
       "gearbox": "automatic",
@@ -136195,9 +136242,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6IhtFI.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136228,9 +136275,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Iht0U.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136261,9 +136308,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6Ihu0j.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136293,9 +136340,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x7-ID6IhtKQ.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136336,7 +136383,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "M340d xDrive mHEV sport",
       "short_description": "BMW M340 BRI, Faktura VAT, M PRO",
       "fuel_type": "diesel",
@@ -136359,9 +136406,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-2-ID6Ihtfv.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136424,9 +136471,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IhsMy.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136457,9 +136504,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhqKB.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136488,9 +136535,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Ihtl4.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1791897535,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136498,7 +136545,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d mHEV sport",
       "short_description": "xDrive30d || BMW Gazda",
       "fuel_type": "diesel",
@@ -136521,9 +136568,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6IhsX4.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136553,9 +136600,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6Ihrxp.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136595,7 +136642,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "320d MHEV Advantage",
       "short_description": "BMW Seria 3 320d MHEV G21 190KM Sport Touring Navi",
       "fuel_type": "diesel",
@@ -136628,7 +136675,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30d mHEV sport",
       "short_description": "xDrive30d | M Pro | BMW Gazda",
       "fuel_type": "diesel",
@@ -136651,9 +136698,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhrUT.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136717,9 +136764,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Iht3A.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136748,9 +136795,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhpJd.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791897535,
-      "last_scrape_timestamp": 1791897535,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791897535,
@@ -136758,7 +136805,7 @@
         ]
       ],
       "price_change": 0,
-      "active": false,
+      "active": true,
       "version": "xDrive30d mHEV sport",
       "short_description": "xDrive30d | M Pro | BMW Gazda",
       "fuel_type": "diesel",
@@ -136791,7 +136838,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20 mHEV",
       "short_description": "BMW X3 20 xDrive! | Polski Autoryzowany Salon BMW!",
       "fuel_type": "petrol",
@@ -136847,9 +136894,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m3-ID6IhxUL.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -136880,9 +136927,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6If6Ak.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -136913,9 +136960,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m2-ID6Ihu7F.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -136946,9 +136993,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Ihxgp.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -136979,9 +137026,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhuaK.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137012,9 +137059,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IhxOx.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137045,9 +137092,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ihxfr.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137076,9 +137123,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6Ihxi4.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137117,7 +137164,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30d mHEV sport",
       "short_description": "Dach Panoramiczny, Pakiet sportowy M, Hak, Bezwypadkowy, SalonPL,FV23%",
       "fuel_type": "diesel",
@@ -137140,9 +137187,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6Ihxw4.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137173,9 +137220,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IgdmR.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137264,9 +137311,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-2-ID6If5pd.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1791975528,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1791975528,
@@ -137340,7 +137387,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "118i",
       "short_description": "118i 499 netto/mc",
       "fuel_type": "petrol",
@@ -137373,7 +137420,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive30e PHEV",
       "short_description": "30e xDrive / Szybka dostępność / Leasing i Wynajem długoterminowy",
       "fuel_type": "plugin-hybrid",
@@ -137394,9 +137441,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6If8TB.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137436,7 +137483,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20 mHEV",
       "short_description": "xDrive20 mHEV automat - Od ręki !",
       "fuel_type": "petrol",
@@ -137469,7 +137516,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "M440i xDrive",
       "short_description": "BMW 440i Grand Coupe",
       "fuel_type": "petrol",
@@ -137500,7 +137547,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20d mHEV M Sport sport",
       "short_description": "X4 xDrive20d LCI M sport G02",
       "fuel_type": "diesel",
@@ -137523,9 +137570,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhCSa.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137556,9 +137603,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m5-ID6IhzFm.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137588,9 +137635,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-4-ID6IhDqt.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137621,9 +137668,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhyJE.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137652,9 +137699,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IhBt9.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137683,9 +137730,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x7-ID6IhyzJ.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137715,9 +137762,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhCKd.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137748,9 +137795,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IeX4u.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137768,7 +137815,7 @@
       "country": "d",
       "country_label": "Niemcy",
       "location": "Kraków",
-      "created_at": "2026-10-15T10:01:17Z"
+      "created_at": "2026-10-15T10:00:39Z"
     },
     "6151149751": {
       "id": "6151149751",
@@ -137781,9 +137828,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhB2L.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137814,9 +137861,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhB5S.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137847,9 +137894,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhB4P.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137880,9 +137927,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhBR9.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137911,9 +137958,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Ihz7z.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -137954,7 +138001,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "540i xDrive",
       "short_description": "Harman Pano  Komforty Panorama Wentyl  Hak  Laser Profesional   VAT23%",
       "fuel_type": "petrol",
@@ -137977,9 +138024,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x7-ID6IhyXL.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138010,9 +138057,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6Ihz3H.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138042,9 +138089,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6I2YA1.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138072,9 +138119,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhxGO.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138114,7 +138161,7 @@
         ]
       ],
       "price_change": 0,
-      "active": true,
+      "active": false,
       "version": "xDrive20 mHEV",
       "short_description": "BMW X3 20 xDrive! | Polski Autoryzowany Salon BMW!",
       "fuel_type": "petrol",
@@ -138137,9 +138184,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhyG1.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138170,9 +138217,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IhBst.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138190,7 +138237,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Radzymin",
-      "created_at": "2026-10-15T03:49:51Z"
+      "created_at": "2026-10-16T05:24:26Z"
     },
     "6151139850": {
       "id": "6151139850",
@@ -138203,9 +138250,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Ihyt4.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138234,9 +138281,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IftAg.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138267,9 +138314,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhuOz.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138298,9 +138345,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhAcw.html",
       "model": "bmw-wszystkie",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "first_scrape_timestamp": 1792060839,
-      "last_scrape_timestamp": 1792060839,
+      "last_scrape_timestamp": 1792146460,
       "price_readings": [
         [
           1792060839,
@@ -138319,6 +138366,1394 @@
       "country_label": "Polska",
       "location": "Chorzów",
       "created_at": "2026-10-14T14:42:54Z"
+    },
+    "6151173859": {
+      "id": "6151173859",
+      "internal_id": 4207,
+      "title": "BMW X3 xDrive20d M Sport Edition",
+      "initial_price": 169740,
+      "current_price": 169740,
+      "year": 2024,
+      "mileage": 36000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhHjB.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          169740
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive20d M Sport Edition",
+      "short_description": "* M Sport * 36 TYS KM * 2024 X * ShadowLine * Open Sky * Disctronic *",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "location": "Borkowo Kościelne",
+      "created_at": "2026-10-16T09:19:27Z"
+    },
+    "6150600194": {
+      "id": "6150600194",
+      "internal_id": 4208,
+      "title": "BMW X1 sDrive20i mHEV M Sport sport",
+      "initial_price": 196532,
+      "current_price": 196532,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6Ifi4V.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          196532
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "sDrive20i mHEV M Sport sport",
+      "short_description": "sDrive20i mHEV M Sport sport-automat - Od ręki!",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 170,
+      "engine_capacity": 1499,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-16T06:51:57Z"
+    },
+    "6150600531": {
+      "id": "6150600531",
+      "internal_id": 4209,
+      "title": "BMW X3 xDrive20d mHEV",
+      "initial_price": 271440,
+      "current_price": 271440,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6Ifian.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          271440
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive20d mHEV",
+      "short_description": "xDrive20d mHEV automat - Od ręki!",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 197,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-16T07:12:35Z"
+    },
+    "6151173429": {
+      "id": "6151173429",
+      "internal_id": 4210,
+      "title": "BMW X5 xDrive45e",
+      "initial_price": 199900,
+      "current_price": 199900,
+      "year": 2022,
+      "mileage": 96600,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhHcF.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          199900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive45e",
+      "short_description": "M Sport | 394 KM | Merino Tartufo | Panorama | HUD | 360° | VAT 23% |",
+      "fuel_type": "plugin-hybrid",
+      "gearbox": "automatic",
+      "engine_power": 394,
+      "engine_capacity": 2998,
+      "country": "b",
+      "country_label": "Belgia",
+      "location": "Wrocław",
+      "created_at": "2026-10-16T08:58:17Z"
+    },
+    "6151174104": {
+      "id": "6151174104",
+      "internal_id": 4211,
+      "title": "BMW Seria 3 320d xDrive M Sport",
+      "initial_price": 209900,
+      "current_price": 209900,
+      "year": 2026,
+      "mileage": 5600,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhHny.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          209900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "320d xDrive M Sport",
+      "short_description": "| I właściciel | M Sport | Hak | Gwarancja | Bezwypadkowy | FVAT23% |",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "dk",
+      "country_label": "Dania",
+      "location": "Długołęka",
+      "created_at": "2026-10-16T09:27:23Z"
+    },
+    "6151175374": {
+      "id": "6151175374",
+      "internal_id": 4212,
+      "title": "BMW Seria 1 120 mHEV",
+      "initial_price": 144900,
+      "current_price": 144900,
+      "year": 2024,
+      "mileage": 10800,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhHI2.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          144900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "120 mHEV",
+      "short_description": "| I właściciel | M Sport | Hak | Gwarancja | Bezwypadkowy | FVAT23% |",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 170,
+      "engine_capacity": 1499,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Długołęka",
+      "created_at": "2026-10-16T10:20:28Z"
+    },
+    "6150287388": {
+      "id": "6150287388",
+      "internal_id": 4213,
+      "title": "BMW Seria 7",
+      "initial_price": 479900,
+      "current_price": 479900,
+      "year": 2025,
+      "mileage": 45380,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6IdYHG.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          479900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "740d xDrive Limuzyna l Telewizor l Automatyczne drzwi l Masaże",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 340,
+      "engine_capacity": 2993,
+      "location": "Warszawa",
+      "created_at": "2026-10-16T09:27:13Z"
+    },
+    "6150780554": {
+      "id": "6150780554",
+      "internal_id": 4214,
+      "title": "BMW Seria 7",
+      "initial_price": 499900,
+      "current_price": 499900,
+      "year": 2026,
+      "mileage": 14381,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6Ig2ZY.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          499900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "740d| Salon PL| TV| Mega Rabat",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 340,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-16T09:27:31Z"
+    },
+    "6151160873": {
+      "id": "6151160873",
+      "internal_id": 4215,
+      "title": "BMW M4 Competition M xDrive",
+      "initial_price": 518160,
+      "current_price": 518160,
+      "year": 2026,
+      "mileage": 5,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m4-ID6IhDV9.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          518160
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "Competition M xDrive",
+      "short_description": "Competition M xDrive Coupé 530 KM - Lakier BMW Individual!",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 530,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Lubicz Dolny",
+      "created_at": "2026-10-15T10:53:18Z"
+    },
+    "6151175363": {
+      "id": "6151175363",
+      "internal_id": 4216,
+      "title": "BMW Seria 5 540d xDrive mHEV",
+      "initial_price": 309900,
+      "current_price": 309900,
+      "year": 2025,
+      "mileage": 25600,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IhHHR.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          309900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "540d xDrive mHEV",
+      "short_description": "| I właściciel | M Sport | Hak | Gwarancja | Bezwypadkowy | FVAT23% |",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 303,
+      "engine_capacity": 2993,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Długołęka",
+      "created_at": "2026-10-16T10:20:26Z"
+    },
+    "6151175349": {
+      "id": "6151175349",
+      "internal_id": 4217,
+      "title": "BMW Seria 5 540d xDrive mHEV",
+      "initial_price": 314900,
+      "current_price": 314900,
+      "year": 2025,
+      "mileage": 17100,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IhHHD.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          314900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "540d xDrive mHEV",
+      "short_description": "| I właściciel | M Sport | Hak | Gwarancja | Bezwypadkowy | FVAT23% |",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 303,
+      "engine_capacity": 2993,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Długołęka",
+      "created_at": "2026-10-16T10:20:27Z"
+    },
+    "6151175338": {
+      "id": "6151175338",
+      "internal_id": 4218,
+      "title": "BMW Seria 5 540d xDrive mHEV",
+      "initial_price": 314900,
+      "current_price": 314900,
+      "year": 2025,
+      "mileage": 36600,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IhHHs.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          314900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "540d xDrive mHEV",
+      "short_description": "| I właściciel | M Pro | Gwarancja | Bezwypadkowy | FVAT23% |",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 303,
+      "engine_capacity": 2993,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Długołęka",
+      "created_at": "2026-10-16T10:20:25Z"
+    },
+    "6151157431": {
+      "id": "6151157431",
+      "internal_id": 4219,
+      "title": "BMW M8 Standard",
+      "initial_price": 439745,
+      "current_price": 439745,
+      "year": 2021,
+      "mileage": 64000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m8-ID6IhD2D.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          439745
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "Standard",
+      "short_description": "Bmw M8",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 600,
+      "engine_capacity": 4395,
+      "location": "Kępno",
+      "created_at": "2026-10-15T08:37:48Z"
+    },
+    "6147265175": {
+      "id": "6147265175",
+      "internal_id": 4220,
+      "title": "BMW X5 xDrive30d mHEV sport",
+      "initial_price": 229900,
+      "current_price": 229900,
+      "year": 2021,
+      "mileage": 99932,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6I1iuj.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          229900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30d mHEV sport",
+      "short_description": "Pierwszy właściciel/FV VAT 23%/Bezwypadkowy/Polski salon/Serwis ASO",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 286,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Częstochowa",
+      "created_at": "2026-10-15T10:52:43Z"
+    },
+    "6151163168": {
+      "id": "6151163168",
+      "internal_id": 4221,
+      "title": "BMW X4 xDrive30i mHEV M Sport sport",
+      "initial_price": 249900,
+      "current_price": 249900,
+      "year": 2025,
+      "mileage": 20108,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhExa.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          249900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30i mHEV M Sport sport",
+      "short_description": "~FV23%~M Podwozie sportowe~Pakiet areodynamiczny M",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 245,
+      "engine_capacity": 1998,
+      "location": "Rzeszów",
+      "created_at": "2026-10-15T13:01:21Z"
+    },
+    "6151141272": {
+      "id": "6151141272",
+      "internal_id": 4222,
+      "title": "BMW M3",
+      "initial_price": 349000,
+      "current_price": 349000,
+      "year": 2022,
+      "mileage": 22000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m3-ID6IhyQ0.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          349000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "Salon polska pierwszy właściciel",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 510,
+      "engine_capacity": 2993,
+      "location": "Olkusz",
+      "created_at": "2026-10-14T12:18:54Z"
+    },
+    "6150591190": {
+      "id": "6150591190",
+      "internal_id": 4223,
+      "title": "BMW X3 xDrive30d mHEV M Sport sport",
+      "initial_price": 189900,
+      "current_price": 189900,
+      "year": 2022,
+      "mileage": 90400,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IffJI.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          189900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30d mHEV M Sport sport",
+      "short_description": "SalonPL, SerwisASO, BogateWyposażenie, Webasto, FV23%",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 285,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Wtórek",
+      "created_at": "2026-10-15T12:02:30Z"
+    },
+    "6151162206": {
+      "id": "6151162206",
+      "internal_id": 4224,
+      "title": "BMW M5 Competition",
+      "initial_price": 286013,
+      "current_price": 286013,
+      "year": 2020,
+      "mileage": 92000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m5-ID6IhEhE.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          286013
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "Competition",
+      "short_description": "Bmw M5 Competition 625KM Cesja",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 625,
+      "engine_capacity": 4395,
+      "location": "Toruń",
+      "created_at": "2026-10-15T12:00:33Z"
+    },
+    "6140363891": {
+      "id": "6140363891",
+      "internal_id": 4225,
+      "title": "BMW X5 xDrive40i mHEV sport",
+      "initial_price": 319997,
+      "current_price": 319997,
+      "year": 2023,
+      "mileage": 32000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6Hyl9h.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          319997
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive40i mHEV sport",
+      "short_description": "BMW X5 xDrive40i M-Sport Kolor Mat ! Salon Polska 32tys!",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 381,
+      "engine_capacity": 2998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Bytom",
+      "created_at": "2026-10-16T08:54:42Z"
+    },
+    "6151126920": {
+      "id": "6151126920",
+      "internal_id": 4226,
+      "title": "BMW X4 xDrive20d M Sport Edition",
+      "initial_price": 192900,
+      "current_price": 192900,
+      "year": 2023,
+      "mileage": 69804,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ihw6v.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          192900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive20d M Sport Edition",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Mysłowice",
+      "created_at": "2026-10-13T17:48:18Z"
+    },
+    "6151165417": {
+      "id": "6151165417",
+      "internal_id": 4227,
+      "title": "BMW X1 xDrive20i M Sport sport",
+      "initial_price": 121900,
+      "current_price": 121900,
+      "year": 2021,
+      "mileage": 59639,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhF7r.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          121900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive20i M Sport sport",
+      "short_description": "Polski Salon, M Sport Serwisowana w ASO BMW, Kamera Cofania FakturaVAT",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 178,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Baranowo",
+      "created_at": "2026-10-15T15:13:19Z"
+    },
+    "6151165279": {
+      "id": "6151165279",
+      "internal_id": 4228,
+      "title": "BMW Seria 7",
+      "initial_price": 516500,
+      "current_price": 516500,
+      "year": 2026,
+      "mileage": 8,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-7-ID6IhF5d.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          516500
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "BMW 740d xDrive 1/135 na świecie - Nero Lusso Edition",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 299,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Poznań",
+      "created_at": "2026-10-16T08:59:33Z"
+    },
+    "6151174138": {
+      "id": "6151174138",
+      "internal_id": 4229,
+      "title": "BMW Seria 3 320i xDrive M Sport",
+      "initial_price": 216400,
+      "current_price": 216400,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhHo6.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          216400
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "320i xDrive M Sport",
+      "short_description": "320i xDrive M Sport  2.0 (184 KM)| Adaptacyjne reflektory LED",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 184,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Chorzów",
+      "created_at": "2026-10-16T09:17:38Z"
+    },
+    "6148704456": {
+      "id": "6148704456",
+      "internal_id": 4230,
+      "title": "BMW X1 sDrive18i M Sport sport",
+      "initial_price": 180492,
+      "current_price": 180492,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6I7kUv.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          180492
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "sDrive18i M Sport sport",
+      "short_description": "BMW X1 nowe",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 136,
+      "engine_capacity": 1499,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-15T12:12:04Z"
+    },
+    "6151165170": {
+      "id": "6151165170",
+      "internal_id": 4231,
+      "title": "BMW M4 Competition M xDrive",
+      "initial_price": 429549,
+      "current_price": 429549,
+      "year": 2025,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m4-ID6IhF3s.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          429549
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "Competition M xDrive",
+      "short_description": "BMW M4 Competition M xDrive! | Salon Polska! | Duży Rabat!",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 530,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-15T14:56:49Z"
+    },
+    "6151162968": {
+      "id": "6151162968",
+      "internal_id": 4232,
+      "title": "BMW X6 xDrive30d mHEV sport",
+      "initial_price": 453300,
+      "current_price": 453300,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IhEtV.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          453300
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30d mHEV sport",
+      "short_description": "xDrive30d M Sport 3.0 (298KM)| Hak holowniczy, elektryczny",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 298,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Chorzów",
+      "created_at": "2026-10-15T12:49:22Z"
+    },
+    "6151173242": {
+      "id": "6151173242",
+      "internal_id": 4233,
+      "title": "BMW Seria 3",
+      "initial_price": 199900,
+      "current_price": 199900,
+      "year": 2026,
+      "mileage": 20511,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhH9E.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          199900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 245,
+      "engine_capacity": 1998,
+      "country": "d",
+      "country_label": "Niemcy",
+      "location": "Dąbrowa Górnicza",
+      "created_at": "2026-10-16T08:34:21Z"
+    },
+    "6150600336": {
+      "id": "6150600336",
+      "internal_id": 4234,
+      "title": "BMW X1 sDrive20i mHEV M Sport sport",
+      "initial_price": 192348,
+      "current_price": 192348,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6Ifi7e.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          192348
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "sDrive20i mHEV M Sport sport",
+      "short_description": "sDrive20i mHEV M Sport sport-automat - Od ręki!",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 170,
+      "engine_capacity": 1499,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Warszawa",
+      "created_at": "2026-10-16T07:01:28Z"
+    },
+    "6151162052": {
+      "id": "6151162052",
+      "internal_id": 4235,
+      "title": "BMW Seria 1 123 mHEV xDrive",
+      "initial_price": 192500,
+      "current_price": 192500,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhEfa.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          192500
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "123 mHEV xDrive",
+      "short_description": "123 xDrive M Sport 2.0 (218KM)| Zestaw HiFi Harman Kardon",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 218,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Chorzów",
+      "created_at": "2026-10-15T11:50:25Z"
+    },
+    "6151173656": {
+      "id": "6151173656",
+      "internal_id": 4236,
+      "title": "BMW X1",
+      "initial_price": 234300,
+      "current_price": 234300,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhHgk.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          234300
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "xDrive23i M Sport  2.0 (218 KM)| Systemy asystujące kierowcy Plus",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 218,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Chorzów",
+      "created_at": "2026-10-16T08:54:19Z"
+    },
+    "6151166332": {
+      "id": "6151166332",
+      "internal_id": 4237,
+      "title": "BMW X5 xDrive25d",
+      "initial_price": 179000,
+      "current_price": 179000,
+      "year": 2021,
+      "mileage": 41990,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhFmc.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          179000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive25d",
+      "short_description": "BMW X5 SUV z 2021 roku.Pakiet Schnitzer zew i wew.Koła 21 Cali",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 231,
+      "engine_capacity": 1995,
+      "location": "Rzgów",
+      "created_at": "2026-10-15T16:23:30Z"
+    },
+    "6148716830": {
+      "id": "6148716830",
+      "internal_id": 4238,
+      "title": "BMW Seria 2",
+      "initial_price": 152900,
+      "current_price": 152900,
+      "year": 2025,
+      "mileage": 6098,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-2-ID6I7o86.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          152900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "MPakiet, mhev,adap. podwozie M,keyless,Adap. Led,indukcja,kierownica M",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 170,
+      "engine_capacity": 1499,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Bydgoszcz",
+      "created_at": "2026-10-16T08:21:57Z"
+    },
+    "6151170770": {
+      "id": "6151170770",
+      "internal_id": 4239,
+      "title": "BMW Seria 3 320d xDrive",
+      "initial_price": 149900,
+      "current_price": 149900,
+      "year": 2023,
+      "mileage": 48000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhGwM.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          149900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "320d xDrive",
+      "short_description": "320D xDrive, salon PL, serwis ASO, 1 właściciel",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Janki",
+      "created_at": "2026-10-16T05:52:15Z"
+    },
+    "6151125846": {
+      "id": "6151125846",
+      "internal_id": 4240,
+      "title": "BMW X6 xDrive30d mHEV sport",
+      "initial_price": 307700,
+      "current_price": 307700,
+      "year": 2026,
+      "mileage": 12000,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x6-ID6IhuPc.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          307700
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30d mHEV sport",
+      "short_description": "SalonPL; HEAD-UP; Harmann; Navi; Led; Vat 23%",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 298,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Opoczno",
+      "created_at": "2026-10-13T17:13:37Z"
+    },
+    "6151175211": {
+      "id": "6151175211",
+      "internal_id": 4241,
+      "title": "BMW X1 sDrive20i mHEV M Sport sport",
+      "initial_price": 197800,
+      "current_price": 197800,
+      "year": 2026,
+      "mileage": 1,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhHFp.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          197800
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "sDrive20i mHEV M Sport sport",
+      "short_description": "sDrive20i M Sport  1.5 (170 KM)| Systemy asystujące kierowcy Plus",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 170,
+      "engine_capacity": 1499,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Chorzów",
+      "created_at": "2026-10-16T10:09:30Z"
+    },
+    "6151173367": {
+      "id": "6151173367",
+      "internal_id": 4242,
+      "title": "BMW X3",
+      "initial_price": 148900,
+      "current_price": 148900,
+      "year": 2020,
+      "mileage": 73944,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x3-ID6IhHbF.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          148900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "3.0 B58 387 KM",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 360,
+      "engine_capacity": 2998,
+      "location": "Otwock",
+      "created_at": "2026-10-16T09:00:01Z"
+    },
+    "6151172881": {
+      "id": "6151172881",
+      "internal_id": 4243,
+      "title": "BMW Seria 3",
+      "initial_price": 87900,
+      "current_price": 87900,
+      "year": 2022,
+      "mileage": 99666,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhH3P.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          87900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "2022, Bezwypadkowy, FV 23%, Salon Polska, ASO, Świeżo po przeglądzie",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 156,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Suchy Las",
+      "created_at": "2026-10-16T08:11:43Z"
+    },
+    "6149988415": {
+      "id": "6149988415",
+      "internal_id": 4244,
+      "title": "BMW Seria 3 320d xDrive mHEV",
+      "initial_price": 147900,
+      "current_price": 147900,
+      "year": 2023,
+      "mileage": 86889,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IcIWx.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          147900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "320d xDrive mHEV",
+      "short_description": "320d xDrive xDrive~FV23%~M Pakiet Sportowy",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Rzeszów",
+      "created_at": "2026-10-16T08:22:09Z"
+    },
+    "6151172896": {
+      "id": "6151172896",
+      "internal_id": 4245,
+      "title": "BMW M3",
+      "initial_price": 379900,
+      "current_price": 379900,
+      "year": 2024,
+      "mileage": 16500,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-m3-ID6IhH44.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          379900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "**Individual*670KM**",
+      "fuel_type": "petrol",
+      "gearbox": "automatic",
+      "engine_power": 480,
+      "engine_capacity": 2993,
+      "location": "Białystok",
+      "created_at": "2026-10-16T08:13:14Z"
+    },
+    "6151130096": {
+      "id": "6151130096",
+      "internal_id": 4246,
+      "title": "BMW X5 xDrive30d mHEV M Sport sport",
+      "initial_price": 378900,
+      "current_price": 378900,
+      "year": 2024,
+      "mileage": 94086,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x5-ID6IhwWK.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          378900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "xDrive30d mHEV M Sport sport",
+      "short_description": "M Pro • Individual • FV23% • I wł. • Salon PL • BRI BSI do 08.2027",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 298,
+      "engine_capacity": 2993,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Szczecin",
+      "created_at": "2026-10-14T05:11:46Z"
+    },
+    "6151172671": {
+      "id": "6151172671",
+      "internal_id": 4247,
+      "title": "BMW X1",
+      "initial_price": 179000,
+      "current_price": 179000,
+      "year": 2025,
+      "mileage": 8962,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x1-ID6IhH0r.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          179000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "short_description": "FV 23%, Promo leasing, Harman, Aktywne fotele, M-pakiet, Shadow Line",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 150,
+      "engine_capacity": 1998,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Płock",
+      "created_at": "2026-10-16T07:57:35Z"
+    },
+    "6149988689": {
+      "id": "6149988689",
+      "internal_id": 4248,
+      "title": "BMW Seria 5 520d xDrive mHEV sport",
+      "initial_price": 177900,
+      "current_price": 177900,
+      "year": 2023,
+      "mileage": 40264,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-5-ID6IcIZX.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          177900
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "520d xDrive mHEV sport",
+      "short_description": "520d xDrive~FV23%~Adaptacyjny Reflektor LED~Fotel Sportowy",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Rzeszów",
+      "created_at": "2026-10-16T08:31:28Z"
+    },
+    "6151172649": {
+      "id": "6151172649",
+      "internal_id": 4249,
+      "title": "BMW Seria 3 320d xDrive mHEV M Sport",
+      "initial_price": 212000,
+      "current_price": 212000,
+      "year": 2025,
+      "mileage": 14600,
+      "url": "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhH05.html",
+      "model": "bmw-wszystkie",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "first_scrape_timestamp": 1792146460,
+      "last_scrape_timestamp": 1792146460,
+      "price_readings": [
+        [
+          1792146460,
+          212000
+        ]
+      ],
+      "price_change": 0,
+      "active": true,
+      "version": "320d xDrive mHEV M Sport",
+      "short_description": "FV 23%, M Pakiet, M Pro, Harman/Kardon, Grzane fotele, Reflektor LED",
+      "fuel_type": "diesel",
+      "gearbox": "automatic",
+      "engine_power": 190,
+      "engine_capacity": 1995,
+      "country": "pl",
+      "country_label": "Polska",
+      "location": "Płock",
+      "created_at": "2026-10-16T07:57:17Z"
     }
   }
 }
