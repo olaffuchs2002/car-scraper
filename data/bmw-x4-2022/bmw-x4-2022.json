@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T13:34:31.913667",
+    "last_updated": "2026-11-07T12:15:17.130942",
     "total_listings": 95,
     "model": "bmw-x4-2022"
   },
@@ -624,15 +624,15 @@
       "internal_id": 18,
       "title": "BMW X4 xDrive20d MHEV M Sport X sport",
       "initial_price": 195900,
-      "current_price": 187900,
+      "current_price": 185900,
       "year": 2022,
       "mileage": 69202,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6HXMWP.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1783691513,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1783691513,
@@ -665,6 +665,10 @@
         [
           1790419028,
           187900
+        ],
+        [
+          1794053717,
+          185900
         ]
       ],
       "price_change": -2000,
@@ -1234,9 +1238,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IalQg.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1784708127,
-      "last_scrape_timestamp": 1793799438,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1784708127,
@@ -1256,7 +1260,7 @@
         ]
       ],
       "price_change": -5000,
-      "active": false,
+      "active": true,
       "version": "xDrive20i sport",
       "short_description": "BMW X4 xDrive20i",
       "fuel_type": "petrol",
@@ -1266,7 +1270,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Stare Bielice",
-      "created_at": "2026-10-06T12:05:47Z"
+      "created_at": "2026-11-07T08:46:10Z"
     },
     "6149487549": {
       "id": "6149487549",
@@ -1482,9 +1486,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IcR1N.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1787121138,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1787121138,
@@ -2140,22 +2144,26 @@
       "internal_id": 58,
       "title": "BMW X4 xDrive20d M Sport sport",
       "initial_price": 189900,
-      "current_price": 189900,
+      "current_price": 184900,
       "year": 2022,
       "mileage": 61900,
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IeLht.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1789035777,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1789035777,
           189900
+        ],
+        [
+          1794053717,
+          184900
         ]
       ],
-      "price_change": 0,
+      "price_change": -5000,
       "active": true,
       "version": "xDrive20d M Sport sport",
       "short_description": "20d xDrive / M-Sport Pakiet PRO / 1 właściciel / FV23% / LED",
@@ -2166,7 +2174,7 @@
       "country": "pl",
       "country_label": "Polska",
       "location": "Ruda Śląska",
-      "created_at": "2026-10-07T08:02:25Z"
+      "created_at": "2026-11-07T12:10:00Z"
     },
     "6150490912": {
       "id": "6150490912",
@@ -2286,9 +2294,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ifgym.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1789555096,
-      "last_scrape_timestamp": 1792060852,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1789555096,
@@ -2308,14 +2316,14 @@
         ]
       ],
       "price_change": -3000,
-      "active": false,
+      "active": true,
       "version": "xDrive20d mHEV M Sport sport",
       "fuel_type": "diesel",
       "gearbox": "automatic",
       "engine_power": 190,
       "engine_capacity": 1995,
       "location": "Koszalin",
-      "created_at": "2026-09-15T15:54:13Z",
+      "created_at": "2026-11-06T18:10:33Z",
       "short_description": "BMW X4 2022 20d xdrive",
       "country": "pl",
       "country_label": "Polska"
@@ -2331,9 +2339,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IfksF.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1789642046,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1789642046,
@@ -2503,9 +2511,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IfYaH.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1790247284,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1790247284,
@@ -2850,9 +2858,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Iha6W.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1791548671,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1791548671,
@@ -2886,9 +2894,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhlbJ.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1791813984,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1791813984,
@@ -2919,9 +2927,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ihwea.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1791975542,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1791975542,
@@ -3013,9 +3021,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhvqO.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1792060852,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1792060852,
@@ -3049,9 +3057,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhIla.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1792231136,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1792231136,
@@ -3082,9 +3090,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhMMK.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1792318346,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1792318346,
@@ -3177,9 +3185,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IhZLX.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1792580331,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1792580331,
@@ -3210,9 +3218,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6HWelV.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1792836343,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1792836343,
@@ -3273,9 +3281,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IiJ6C.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1793361470,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1793361470,
@@ -3306,9 +3314,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IiL7f.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1793361470,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1793361470,
@@ -3339,9 +3347,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6IiTQf.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1793536158,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1793536158,
@@ -3372,9 +3380,9 @@
       "url": "https://www.otomoto.pl/osobowe/oferta/bmw-x4-ID6Ij2Xq.html",
       "model": "bmw-x4-2022",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "first_scrape_timestamp": 1793712325,
-      "last_scrape_timestamp": 1793972071,
+      "last_scrape_timestamp": 1794053717,
       "price_readings": [
         [
           1793712325,
